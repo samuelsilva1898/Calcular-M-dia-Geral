@@ -16,7 +16,7 @@ namespace MediaGeralPOO
         {
             get
             {
-                return 0;
+                return CalcularMedia;
             }
         }
             public Aluno(string nome, int provas)
